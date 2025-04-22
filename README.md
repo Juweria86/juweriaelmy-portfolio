@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio – [Your Name]
+# 🌐 Personal Portfolio – Juweria
 
 Welcome to my personal developer portfolio!  
 This site showcases my skills, projects, education, and experience as a software engineer.
